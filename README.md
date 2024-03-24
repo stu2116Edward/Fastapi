@@ -1,3 +1,4 @@
 # python_sql
 my python sql backstage
-create 2024-3-24
+created in 2024-3-24
+Back-end logic for implementing login registration
